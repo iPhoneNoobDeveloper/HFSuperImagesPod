@@ -45,7 +45,7 @@
 		9AF8721334051B6E802C6A75 /* Pods_HFSuperImagesPod_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HFSuperImagesPod_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		AE2F7A0B7E6F3343B921ADB6 /* Pods-HFSuperImagesPod_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HFSuperImagesPod_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-HFSuperImagesPod_Tests/Pods-HFSuperImagesPod_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		B5F729524622E1C7B9CCDCAB /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		B86CC420359C8C2B3787E37B /* HFSuperImagesPod.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = HFSuperImagesPod.podspec; path = ../HFSuperImagesPod.podspec; sourceTree = "<group>"; };
+		B86CC420359C8C2B3787E37B /* HFSuperImagesPod.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = HFSuperImagesPod.podspec; path = ../HFSuperImagesPod.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		FD3AE19B3BAE57B6C24A7D9D /* Pods-HFSuperImagesPod_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HFSuperImagesPod_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-HFSuperImagesPod_Example/Pods-HFSuperImagesPod_Example.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
