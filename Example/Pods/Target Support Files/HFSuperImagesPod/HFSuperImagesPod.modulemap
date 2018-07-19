@@ -1,0 +1,6 @@
+framework module HFSuperImagesPod {
+  umbrella header "HFSuperImagesPod-umbrella.h"
+
+  export *
+  module * { export * }
+}

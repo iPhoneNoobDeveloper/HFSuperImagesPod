@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'HFSuperImagesPod_Example' do
+  pod 'HFSuperImagesPod', :path => '../'
+
+  target 'HFSuperImagesPod_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

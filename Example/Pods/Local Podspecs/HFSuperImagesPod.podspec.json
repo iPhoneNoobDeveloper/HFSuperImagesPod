@@ -1,0 +1,22 @@
+{
+  "name": "HFSuperImagesPod",
+  "version": "0.1.0",
+  "summary": "A short description of HFSuperImagesPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Nirav/HFSuperImagesPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Nirav": "niravjain02@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Nirav/HFSuperImagesPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HFSuperImagesPod/Classes/**/*"
+}
